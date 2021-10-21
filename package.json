@@ -1,0 +1,25 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "A REST api with typescript and express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limtom/TASKMANAGER.git"
+  },
+  "keywords": [
+    "TASK-MANAGER",
+    "REST",
+    "TYPEORM",
+    "EXPRESS"
+  ],
+  "author": "Olatomiwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/limtom/TASKMANAGER/issues"
+  },
+  "homepage": "https://github.com/limtom/TASKMANAGER#readme"
+}
